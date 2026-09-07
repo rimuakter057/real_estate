@@ -4,35 +4,6 @@ A new Flutter project.
 
 ## Screenshots
 
-### Admin
-
-<p>
-  <img src="assets/screenshots/real_estate/admin/Screenshot_20260907_080131.png" width="200" />
-  <img src="assets/screenshots/real_estate/admin/Screenshot_20260907_080139.png" width="200" />
-  <img src="assets/screenshots/real_estate/admin/Screenshot_20260907_080145.png" width="200" />
-  <img src="assets/screenshots/real_estate/admin/Screenshot_20260907_080152.png" width="200" />
-  <img src="assets/screenshots/real_estate/admin/Screenshot_20260907_080203.png" width="200" />
-  <img src="assets/screenshots/real_estate/admin/Screenshot_20260907_080224.png" width="200" />
-  <img src="assets/screenshots/real_estate/admin/Screenshot_20260907_080234.png" width="200" />
-</p>
-
-### Buyer
-
-<p>
-  <img src="assets/screenshots/real_estate/buyer/Screenshot_20260907_075709.png" width="200" />
-  <img src="assets/screenshots/real_estate/buyer/Screenshot_20260907_075725.png" width="200" />
-  <img src="assets/screenshots/real_estate/buyer/Screenshot_20260907_075733.png" width="200" />
-  <img src="assets/screenshots/real_estate/buyer/Screenshot_20260907_075744.png" width="200" />
-  <img src="assets/screenshots/real_estate/buyer/Screenshot_20260907_075757.png" width="200" />
-  <img src="assets/screenshots/real_estate/buyer/Screenshot_20260907_075806.png" width="200" />
-  <img src="assets/screenshots/real_estate/buyer/Screenshot_20260907_075838.png" width="200" />
-  <img src="assets/screenshots/real_estate/buyer/Screenshot_20260907_075848.png" width="200" />
-  <img src="assets/screenshots/real_estate/buyer/Screenshot_20260907_075912.png" width="200" />
-  <img src="assets/screenshots/real_estate/buyer/Screenshot_20260907_075919.png" width="200" />
-  <img src="assets/screenshots/real_estate/buyer/Screenshot_20260907_075940.png" width="200" />
-  <img src="assets/screenshots/real_estate/buyer/Screenshot_20260907_075949.png" width="200" />
-</p>
-
 ### Owner
 
 <p>
@@ -58,6 +29,35 @@ A new Flutter project.
   <img src="assets/screenshots/real_estate/owner/Screenshot_20260907_075438.png" width="200" />
   <img src="assets/screenshots/real_estate/owner/Screenshot_20260907_075452.png" width="200" />
   <img src="assets/screenshots/real_estate/owner/Screenshot_20260907_075511.png" width="200" />
+</p>
+
+### Buyer
+
+<p>
+  <img src="assets/screenshots/real_estate/buyer/Screenshot_20260907_075709.png" width="200" />
+  <img src="assets/screenshots/real_estate/buyer/Screenshot_20260907_075725.png" width="200" />
+  <img src="assets/screenshots/real_estate/buyer/Screenshot_20260907_075733.png" width="200" />
+  <img src="assets/screenshots/real_estate/buyer/Screenshot_20260907_075744.png" width="200" />
+  <img src="assets/screenshots/real_estate/buyer/Screenshot_20260907_075757.png" width="200" />
+  <img src="assets/screenshots/real_estate/buyer/Screenshot_20260907_075806.png" width="200" />
+  <img src="assets/screenshots/real_estate/buyer/Screenshot_20260907_075838.png" width="200" />
+  <img src="assets/screenshots/real_estate/buyer/Screenshot_20260907_075848.png" width="200" />
+  <img src="assets/screenshots/real_estate/buyer/Screenshot_20260907_075912.png" width="200" />
+  <img src="assets/screenshots/real_estate/buyer/Screenshot_20260907_075919.png" width="200" />
+  <img src="assets/screenshots/real_estate/buyer/Screenshot_20260907_075940.png" width="200" />
+  <img src="assets/screenshots/real_estate/buyer/Screenshot_20260907_075949.png" width="200" />
+</p>
+
+### Admin
+
+<p>
+  <img src="assets/screenshots/real_estate/admin/Screenshot_20260907_080131.png" width="200" />
+  <img src="assets/screenshots/real_estate/admin/Screenshot_20260907_080139.png" width="200" />
+  <img src="assets/screenshots/real_estate/admin/Screenshot_20260907_080145.png" width="200" />
+  <img src="assets/screenshots/real_estate/admin/Screenshot_20260907_080152.png" width="200" />
+  <img src="assets/screenshots/real_estate/admin/Screenshot_20260907_080203.png" width="200" />
+  <img src="assets/screenshots/real_estate/admin/Screenshot_20260907_080224.png" width="200" />
+  <img src="assets/screenshots/real_estate/admin/Screenshot_20260907_080234.png" width="200" />
 </p>
 
 ## Getting Started
